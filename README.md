@@ -1,9 +1,5 @@
-# Mis custom hooks
-se agrega este archivo para tener control de cosas personalizadas y genericas para react.
-#useCounter
-Ejemplo de uso:
-``` 
-const { counter, increment,decrement, reset } = useCounter({10});
-```
+# Notas
 
-useCounter recibe como parametro por defuault.
+Este repositorio contiene varios customHooks para ayudarme a mi y a quien le sirva, estos hooks.
+
+También la idea es que yo no quiero volver a escribirlos!
